@@ -19,3 +19,12 @@ ou
 ```bash
 pip install -r requirements.txt
 ```
+
+## Executar
+```bash
+python manage.py runserver
+```
+ou
+```bash
+python manage.py runserver 8080
+```
