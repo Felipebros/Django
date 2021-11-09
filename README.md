@@ -20,7 +20,7 @@ ou
 pip install -r requirements.txt
 ```
 
-## Executar
+## Executar:
 ```bash
 python manage.py runserver
 ```
